@@ -1,36 +1,19 @@
-## clone the repository
-   <https://github.com/agichimu/Case-Converter.git>
-   or download it as a zip file and extract to your desired location on your computer.
-## Install PHP, XAMPP (for Windows), LAMP (for Linux), or MAMP (for macOS)
- 1 for windows you can use https://www.php.net/distributions/php-8.2.7.tar.xz
-after installing you can use php -version to see version of php installed
+# Project requirements
 
-to install php and to install xammp https://www.apachefriends.org/download.html 
-after installing xammp navigate to htdocs where project files will be saved. and 
-create new folder named "caseconverter" inside that directory copy all contents from cloned repo into this case.
+  1 Php version 8.2 or later installed on your machine.
 
-2 for linux  to install php and lampp server follow the following steps
-sudo apt-get update
-sudo apt-get install lamp-server
-after installation navigate to opt/lampp where projects will be saved
-3 For mac os users 
-Step 1: Install Homebrew (Package Manager)
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
-Step 2: Install PHP
-brew install php
-After that check if PHP is properly installed by running command "php --version" in terminal
-You should get something like this :PHP 8.0.9 (cli) 
-Step 3: Install XAMPP
-Download latest stable release from here http://XAMPP.org/downloads/. Extract downloaded package into Applications folder
- ### how to run the project
- 1 open any web browser
- 2 type localhost into url bar
- 3 click go button
- 4 localhost//palidrome.php 
- 5 This would load palindrome page.
+  2 XAMPP(for windows) , LAMPP(for linux) , MAMP(for macos)
 
+# Steps to run the projects
 
+   1 clone the repository or download as a zip folder and extract to the desired location
 
+   2 once clone the project folder should be stored to xammp under htdocs for windows and opt/lampp for linux.
 
+   ![Screenshot from 2023-07-06 13-41-35](https://github.com/agichimu/Case-Converter/assets/97959452/a5a348aa-a567-4937-b83b-1db097aa70a9)
+   
+   ![Screenshot from 2023-07-06 13-45-41](https://github.com/agichimu/Case-Converter/assets/97959452/dc7d2fd9-7e1e-4ce0-99de-6494a7d125cb)
+
+   ![Screenshot from 2023-07-06 13-46-22](https://github.com/agichimu/Case-Converter/assets/97959452/b13d598d-49df-4a6e-8df9-8f327d8ccabc)
 
 
