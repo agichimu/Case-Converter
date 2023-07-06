@@ -1,4 +1,4 @@
-##clone the repository
+## clone the repository
    <https://github.com/agichimu/Case-Converter.git>
    or download it as a zip file and extract to your desired location on your computer.
 ## Install PHP, XAMPP (for Windows), LAMP (for Linux), or MAMP (for macOS)
